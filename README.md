@@ -1,4 +1,4 @@
-# Hello, I'm Janhavi Kale
+# 👋 Hello, I'm Janhavi Kale
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janhavikale06) 
